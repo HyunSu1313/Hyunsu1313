@@ -1,5 +1,4 @@
 # 안녕하세요, 정현수입니다 👋
-
 **KICPA | Risk Consulting @ EY한영 | 회계·감사 도메인 AI 자동화**
 
 ---
@@ -21,7 +20,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
@@ -30,14 +30,7 @@
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
 | [FraudDetection](https://github.com/HyunSu1313/FraudDetction) | ERP 이상거래 탐지 모델 | Python, Isolation Forest, Random Forest, Streamlit |
-| RCM Automation *(진행 중)* | 내부통제 위험통제매트릭스 자동화 툴 | Python, Claude API |
-
----
-
-## Prompt Engineering
-
-회계·감사 업무 특화 프롬프트를 설계하고 검증합니다.  
-→ [prompt-engineering-accounting](#) *(coming soon)*
+| [RCM Automation](https://github.com/HyunSu1313/rcm-automation-tool) | 내부통제 위험통제매트릭스 자동화 툴 | Excel VBA, Claude API |
 
 ---
 
