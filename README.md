@@ -17,11 +17,31 @@
 
 ## Tech Stack
 
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+
+
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+
+
+
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
+
+
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+
+
 
 ---
 
@@ -29,11 +49,16 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [FraudDetection](https://github.com/HyunSu1313/FraudDetction) | ERP 이상거래 탐지 모델 | Python, Isolation Forest, Random Forest, Streamlit |
 | [RCM Automation](https://github.com/HyunSu1313/rcm-automation-tool) | 내부통제 위험통제매트릭스 자동화 툴 | Excel VBA, Claude API |
+| [FraudDetection](https://github.com/HyunSu1313/FraudDetction) | ERP 이상거래 탐지 모델 | Python, Isolation Forest, Random Forest, Streamlit |
+| [Prompt Engineering for Accounting](https://github.com/HyunSu1313/prompt-engineering-accounting) | 회계·감사 실무 특화 프롬프트 템플릿 라이브러리 | Prompt Engineering |
 
 ---
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mosjeong1@gmail.com)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
+
+](mailto:mosjeong1@gmail.com)
